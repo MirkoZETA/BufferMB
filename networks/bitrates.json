@@ -1,0 +1,172 @@
+{
+    "10": [
+        {
+            "16QAM": [
+                { "L": { "slots": 1, "reach": 1900 } },
+                { "C": { "slots": 1, "reach": 560 } }, 
+                { "S": { "slots": 1, "reach": 1400 } },
+                { "E": { "slots": 1, "reach": 400 } }
+            ]
+        },
+        {
+            "8QAM": [
+                { "L": { "slots": 1, "reach": 3900 } },
+                { "C": { "slots": 1, "reach": 1360 } },
+                { "S": { "slots": 1, "reach": 2900 } },
+                { "E": { "slots": 1, "reach": 900 } }
+            ]
+        },
+        {
+            "QPSK": [
+                { "L": { "slots": 1, "reach": 7200 } },
+                { "C": { "slots": 1, "reach": 2720 } },
+                { "S": { "slots": 1, "reach": 5100 } },
+                { "E": { "slots": 1, "reach": 1500 } }
+            ]
+        },
+        {
+            "BPSK": [
+                { "L": { "slots": 1, "reach": 14400 } },
+                { "C": { "slots": 1, "reach": 5520 } },
+                { "S": { "slots": 1, "reach": 10200 } },
+                { "E": { "slots": 1, "reach": 3100 } }
+            ]
+        }
+    ],
+    "40": [
+        {
+            "16QAM": [
+                { "L": { "slots": 1, "reach": 1900 } },
+                { "C": { "slots": 1, "reach": 560 } }, 
+                { "S": { "slots": 1, "reach": 1400 } },
+                { "E": { "slots": 1, "reach": 400 } }
+            ]
+        },
+        {
+            "8QAM": [
+                { "L": { "slots": 2, "reach": 3900 } },
+                { "C": { "slots": 2, "reach": 1360 } },
+                { "S": { "slots": 2, "reach": 2900 } },
+                { "E": { "slots": 2, "reach": 900 } }
+            ]
+        },
+        {
+            "QPSK": [
+                { "L": { "slots": 2, "reach": 7200 } },
+                { "C": { "slots": 2, "reach": 2720 } },
+                { "S": { "slots": 2, "reach": 5100 } },
+                { "E": { "slots": 2, "reach": 1500 } }
+            ]
+        },
+        {
+            "BPSK": [
+                { "L": { "slots": 4, "reach": 14400 } },
+                { "C": { "slots": 4, "reach": 5520 } },
+                { "S": { "slots": 4, "reach": 10200 } },
+                { "E": { "slots": 4, "reach": 3100 } }
+            ]
+        }
+    ],
+    "100": [
+         {
+             "16QAM": [
+                 { "L": { "slots": 2, "reach": 1900 } },
+                 { "C": { "slots": 2, "reach": 560 } }, 
+                 { "S": { "slots": 2, "reach": 1400 } },
+                 { "E": { "slots": 2, "reach": 400 } }
+             ]
+         },
+         {
+             "8QAM": [
+                 { "L": { "slots": 3, "reach": 3900 } },
+                 { "C": { "slots": 3, "reach": 1360 } },
+                 { "S": { "slots": 3, "reach": 2900 } },
+                 { "E": { "slots": 3, "reach": 900 } }
+             ]
+         },
+         {
+             "QPSK": [
+                 { "L": { "slots": 4, "reach": 7200 } },
+                 { "C": { "slots": 4, "reach": 2720 } },
+                 { "S": { "slots": 4, "reach": 5100 } },
+                 { "E": { "slots": 4, "reach": 1500 } }
+             ]
+         },
+         {
+             "BPSK": [
+                 { "L": { "slots": 8, "reach": 14400 } },
+                 { "C": { "slots": 8, "reach": 5520 } },
+                 { "S": { "slots": 8, "reach": 10200 } },
+                 { "E": { "slots": 8, "reach": 3100 } }
+             ]
+         }
+     ],
+     "400": [
+         {
+             "16QAM": [
+                 { "L": { "slots": 8, "reach": 1900 } },
+                 { "C": { "slots": 8, "reach": 560 } },
+                 { "S": { "slots": 8, "reach": 1400 } },
+                 { "E": { "slots": 8, "reach": 400 } }
+             ]
+         },
+         {
+             "8QAM": [
+                 { "L": { "slots": 11, "reach": 3900 } },
+                 { "C": { "slots": 11, "reach": 1360 } },
+                 { "S": { "slots": 11, "reach": 2900 } },
+                 { "E": { "slots": 11, "reach": 900 } }
+             ]
+         },
+         {
+             "QPSK": [
+                 { "L": { "slots": 16, "reach": 7200 } },
+                 { "C": { "slots": 16, "reach": 2720 } },
+                 { "S": { "slots": 16, "reach": 5100 } },
+                 { "E": { "slots": 16, "reach": 1500 } }
+             ]
+         },
+         {
+             "BPSK": [
+                 { "L": { "slots": 32, "reach": 14400 } },
+                 { "C": { "slots": 32, "reach": 5520 } },
+                 { "S": { "slots": 32, "reach": 10200 } },
+                 { "E": { "slots": 32, "reach": 3100 } }
+             ]
+         }
+     ],
+     "1000": [
+         {
+             "16QAM": [
+                 { "L": { "slots": 20, "reach": 1900 } },
+                 { "C": { "slots": 20, "reach": 560 } },
+                 { "S": { "slots": 20, "reach": 1400 } },
+                 { "E": { "slots": 20, "reach": 400 } }
+             ]
+         },
+         {
+             "8QAM": [
+                 { "L": { "slots": 27, "reach": 3900 } },
+                 { "C": { "slots": 27, "reach": 1360 } },
+                 { "S": { "slots": 27, "reach": 2900 } },
+                 { "E": { "slots": 27, "reach": 900 } } 
+             ]
+         },
+         {
+             "QPSK": [
+                 { "L": { "slots": 40, "reach": 7200 } },
+                 { "C": { "slots": 40, "reach": 2720 } },
+                 { "S": { "slots": 40, "reach": 5100 } },
+                 { "E": { "slots": 40, "reach": 1500 } }
+             ]
+         },
+         {
+             "BPSK": [
+                 { "L": { "slots": 80, "reach": 14400 } },
+                 { "C": { "slots": 80, "reach": 5520 } },
+                 { "S": { "slots": 80, "reach": 10200 } },
+                 { "E": { "slots": 80, "reach": 3100 } }
+             ]
+         }
+    ]
+}

@@ -1,0 +1,11 @@
+N/Buffer erlang index: 0, erlang: 1000, general blocking: 0, BBP: 0
+N/Buffer erlang index: 1, erlang: 1500, general blocking: 0, BBP: 0
+N/Buffer erlang index: 2, erlang: 2000, general blocking: 0, BBP: 0
+N/Buffer erlang index: 3, erlang: 2500, general blocking: 8.79999e-05, BBP: 0.000275753
+N/Buffer erlang index: 4, erlang: 3000, general blocking: 0.00507299, BBP: 0.0158966
+N/Buffer erlang index: 5, erlang: 3500, general blocking: 0.01762, BBP: 0.0552133
+N/Buffer erlang index: 6, erlang: 4000, general blocking: 0.032512, BBP: 0.101878
+N/Buffer erlang index: 7, erlang: 4500, general blocking: 0.046334, BBP: 0.14519
+N/Buffer erlang index: 8, erlang: 5000, general blocking: 0.0580329, BBP: 0.181848
+N/Buffer erlang index: 9, erlang: 5500, general blocking: 0.0683379, BBP: 0.214132
+N/Buffer erlang index: 10, erlang: 6000, general blocking: 0.0766479, BBP: 0.240136
